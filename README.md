@@ -1,6 +1,7 @@
 # Working Effectively with Legacy Code
+Original: https://gist.github.com/jeremy-w/6774525
 
-Notes by Jeremy W. Sherman, October 2013, based on:
+Notes by Jeremy W. Sherman, October 2013, based on: 
 
 Feathers, Michael. _Working Effectively with Legacy Code_. Sixth printing, July 2007.
 
